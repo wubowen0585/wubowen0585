@@ -1,0 +1,2 @@
+1.按照README.png制作；
+2.在debian/postinst里面增加需要root执行的命令

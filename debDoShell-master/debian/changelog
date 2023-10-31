@@ -1,0 +1,17 @@
+out-keyring (1.0.0+delete) UNRELEASED; urgency=medium
+
+  * 去掉权限
+
+ -- wubw <wubw@uos>  Fri, 17 Mar 2023 13:00:46 +0800
+
+out-keyring (1.0.0+add) UNRELEASED; urgency=medium
+
+  * 添加权限
+
+ -- wubw <wubw@uos>  Fri, 17 Mar 2023 13:00:46 +0800
+
+out-keyring (1.0.0) unstable; urgency=low
+
+  去掉keyring弹框权限
+
+ -- wubw <wubw@uos>  Fri, 17 Mar 2023 12:42:58 +0800

@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+
+chmod -x /usr/lib/gcr/gcr-prompter
+# case "$1" in
+#     configure)
+#         chmod -x /usr/lib/gcr/gcr-prompter
+#     ;;
+# esac
+
+#DEBHELPER#
+
+exit 0

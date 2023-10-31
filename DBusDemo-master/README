@@ -1,0 +1,13 @@
+mkdir build
+cd build
+qmake ..
+make -j8
+./DBusDemo
+
+#默认打印当前状态
+reply =  "performance"
+#下面是分别切换 平衡，节能，高性能 模式监听信号输出
+ ########### Current Mode :  "balance"
+ ########### Current Mode :  "powersave"
+ ########### Current Mode :  "performance"
+
